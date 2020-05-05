@@ -48,4 +48,18 @@ Kadar naredimo kot je zgoraj omenjeno nam mora na koncu igledati na tak način:
 
 ![alt text](12.PNG)
 
+Če smo pravilno sledili navodilom lahko gremo v našo igro in testiramo. Testiramo na tak način, da poberemo prvi objekt in pogledamo zapis "Score:":
 
+![alt text](13.PNG)
+
+Za tem pa poberemo še en objekt pa bi se moralo inkrementirat za 1.
+
+![alt text](14.PNG)
+
+Po testiranju, če se nam na istem nivoju prenaša "Score" lahko gremo na drugi nivo (v našem primeru gremo v drevo). 
+
+![alt text](15.PNG)
+
+Na koncu pa še poberemo objekt na drugem nivoju in bi se zopet morala vrednost zvišat za 1 oziroma kolikor je vrednost nastavljena.
+
+![alt text](16.PNG)
