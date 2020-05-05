@@ -23,7 +23,9 @@ Na menuju imamo 3 opcije. Po izbiri Play se nam začne igra. Če gremo na Shop n
 
 ### Vodič za implementacijo kode, ki prenaša točke iz enega nivoja v drugega
 
-Prvo moramo dodat datoteko iz našega projekta v vašega. Datoteko oziroma skripto, ki je potrebno dodat je ScoreCounter.cs.
-![alt text](5.png)
+Prvo moramo dodat datoteko iz našega projekta v vašega. Datoteko oziroma skripto, ki je potrebno dodat je ScoreCounter.cs (lahko tudi skupaj z ScoreCounter.cs.meta.).
+![alt text](7.png)
 
+Te datoteke dodate med vaše assests tako da se vam prikaže na tak način: 
+![alt text](8.png)
 
