@@ -21,3 +21,9 @@ Kratka igrca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbir
 
 Na menuju imamo 3 opcije. Po izbiri Play se nam začne igra. Če gremo na Shop nas preusmeri na vmesnik kjer lahko vidimo skine, ki bodo na voljo za nakup (work in progress). Na koncu pa še imamo Quit Game, ki nam zapre igro, ko hočemo prenehat igrat.
 
+### Vodič za implementacijo kode, ki prenaša točke iz enega nivoja v drugega
+
+Prvo moramo dodat datoteko iz našega projekta v vašega. Datoteko oziroma skripto, ki je potrebno dodat je ScoreCounter.cs.
+![alt text](5.png)
+
+
