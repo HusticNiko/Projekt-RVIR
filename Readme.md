@@ -6,10 +6,14 @@ Kratka igerca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbi
 ### Diagram primera uporabe
 
  ![alt text](1.png)
+ 
+ Rezultat je viden v igri, med igranjom. Rezultat je tudi prenosljiv iz nivoja v nivo, ampak po trku z oviro se rezultat znova nastavi na 0 in se začne isti nivo od začetka. Prijava do določene mere ni potrebna saj se rezultat shranjuje na naši igralski platformi.
 
 ### E-R diagram 
 
   ![alt text](2.png)
+  
+  V naši končni verziji je število žetonov tudi enako končnemu rezultatu.
 
 ### Slike grafičnega vmesnika
 
