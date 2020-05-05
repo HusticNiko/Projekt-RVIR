@@ -30,3 +30,6 @@ Prvo moramo dodat datoteko iz našega projekta v vašega. Datoteko oziroma skrip
 Te datoteke dodate med vaše assests tako da se vam prikaže na tak način: 
 ![alt text](8.PNG)
 
+Ko se vam prikaže skripta kot je prikazana na zgornji sliki potem morate samo še dodat tag na vašem objektu s katerem po trku želite, da se beležijo točke.
+Se pravi prvo greste v SampleScenu na objekt katerega želite beležit (v našem primeru coin 1 in coin 2).
+![alt text](9.PNG)
