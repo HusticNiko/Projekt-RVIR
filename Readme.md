@@ -34,3 +34,14 @@ Ko se vam prikaže skripta kot je prikazana na zgornji sliki potem morate samo �
 Se pravi prvo greste v SampleScenu na objekt katerega želite beležit (v našem primeru coin 1 in coin 2).
 
 ![alt text](9.PNG)
+
+Ko izberemo objekt katerega želimo beležit z skripto mu nastavimo tag Coins.
+
+![alt text](10.PNG)
+
+Seveda pa lahko tudi tag spremenimo v kar koli drugega in v kodi tudi spremenimo pričakovani tag (v našem primeru je "Coins").
+Gremo v ScoreCounter.cs in spremenimo if stavek kjer pričakuje tag Coins na isti tag kot smo prej si zamislili.
+
+![alt text](11.PNG)
+
+kadar naredimo kot je zgoraj omenjeno nam mora 
