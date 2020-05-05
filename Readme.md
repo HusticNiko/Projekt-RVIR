@@ -5,15 +5,15 @@ Kratka igerca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbi
 
 ### Diagram primera uporabe
 
-* ![alt text](1.png)
+ ![alt text](1.png)
 
 ### E-R diagram 
 
- * ![alt text](2.png)
+  ![alt text](2.png)
 
 ### Slike grafičnega vmesnika
 
-* ![alt text](3.png)
+ ![alt text](3.png)
 
 Na menuju imamo 3 opcije. Po izbiri Play se nam začne igra. Če gremo na Shop nas preusmeri na vmesnik kjer lahko vidimo skine, ki bodo na voljo za nakup (work in progress). Na koncu pa še imamo Quit Game, ki nam zapre igro, ko hočemo prenehat igrat.
 
