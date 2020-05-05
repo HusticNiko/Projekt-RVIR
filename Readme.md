@@ -63,3 +63,5 @@ Po testiranju, če se nam na istem nivoju prenaša "Score" lahko gremo na drugi 
 Na koncu pa še poberemo objekt na drugem nivoju in bi se zopet morala vrednost zvišat za 1 oziroma kolikor je vrednost nastavljena.
 
 ![alt text](16.PNG)
+
+To shranjevanje nam omogoča vgrajena funkcija z imenom PlayerPrefs. PlayerPrefs je prav temu namenjeno, da se podatki shranjujejo med igralskimi sejami. Se pravi če enkrat zapremo igro in smo napredovali do določenega nivoja pa nočemo izgubiti naše žetone potem lahko samo igro zapremo in se ne sekiramo če so se nam žetoni ponovno resetirali na 0. Naša enostavna implementacija te funkcije v našo metodo pa skupaj naredi funkcijo, ki je enostavna, ponovno uporabna in delujoča.
