@@ -44,4 +44,8 @@ Gremo v ScoreCounter.cs in spremenimo if stavek kjer pričakuje tag Coins na ist
 
 ![alt text](11.PNG)
 
-kadar naredimo kot je zgoraj omenjeno nam mora 
+Kadar naredimo kot je zgoraj omenjeno nam mora na koncu igledati na tak način:
+
+![alt text](12.PNG)
+
+
