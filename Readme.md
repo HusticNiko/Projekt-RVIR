@@ -1,7 +1,7 @@
 # CoinKing  
 ![alt text](4.png)
 
-Kratka igerca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbiraš žetone in z njimi trguješ v trgovini.
+Kratka igrca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbiraš žetone in z njimi trguješ v trgovini.
 
 ### Diagram primera uporabe
 
