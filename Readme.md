@@ -1,4 +1,4 @@
-# CoinKing  ![alt text](7.png)
+# CoinKing  ![alt text](rsz_7_1.png)
 ![alt text](4.png)
 
 Kratka igrca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbiraš žetone in z njimi trguješ v trgovini.
