@@ -3,6 +3,10 @@
 
 Kratka igrca, za mobilno napravo, v kateri s karakterjem premaguješ ovire, zbiraš žetone in z njimi trguješ v trgovini.
 
+### Projekt
+
+Projekt je možno pridobiti na tem linku: https://drive.google.com/file/d/1q4o-tjBjD4Si9ZGYNIpBOWtEmDtBXJ4h/view
+
 ### Diagram primera uporabe
 
  ![alt text](1.png)
